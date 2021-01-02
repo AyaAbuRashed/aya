@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace InventorySystem
+namespace InventoryTaskWebApi
 {
     public class FilterConfig
     {
